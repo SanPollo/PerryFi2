@@ -58,7 +58,7 @@ As mentioned above, you can either order this directly from its [project page on
 | C1 | 1 | 22uF 16V Electrolytical Capacitor | [Mouser](https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/860010372002?qs=0KOYDY2FL2%252B9WwJ0SbWRgQ%3D%3D) |
 | C2 | 1 | 10uF 16V Electronic Capacitor | [Mouser](https://www.mouser.co.uk/en/ProductDetail/Wurth-Elektronik/860010372001?qs=0KOYDY2FL29NKHIi2kspeA%3D%3D) |
 | C3 - C10 | 8 | 0.1uF / 100 nF (104) Ceramic Capacitor | [Mouser](https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/K104K15X7RF5UL2?qs=rLgk8CAOBHbCqsnkGO2HJA%3D%3D) |
-| J3 | 1 | 1x4-pin Header Male | [Mouser](https://eu.mouser.com/en/ProductDetail/TE-Connectivity/87224-4?qs=ZDXmSm13593XigDDyAAvFA%3D%3D) |
+| J3 | 1 | 1x4-pin Header Male | [Mouser](https://www.mouser.co.uk/en/ProductDetail/TE-Connectivity/87224-4?qs=ZDXmSm13593XigDDyAAvFA%3D%3D) |
 | R1 - R6 | 6 | 10K Resistor | [Mouser](https://www.mouser.co.uk/en/ProductDetail/Vishay-BC-Components/SFR25H0001002JR500?qs=6iGubpYEgGl%2FWs77gjt1Ig%3D%3D) |
 
 ### MCU Boards
@@ -92,12 +92,12 @@ When assembled with an edge connector, the PerryFi 2 connects to the expansion b
 
 ### Sockets
 
-These are entirely optional.
+These are entirely optional. Note that you will save a lot of money shopping around on AliExpress versus buying sockets and pin headers from Mouser.
 
 | Ref | Qty | Part | Source |
 | --- | --- | ---- | ------ |
-| A1 | 2 | 20-pin Pin Headers Male and Female | [AliExpress](https://www.aliexpress.com/w/wholesale-pin-header.html) |
-| U1 | 2 | 1.27mm Pin Headers Male and Female | [AliExpress](https://www.aliexpress.com/w/wholesale-pin-header-1.27mm.html?spm=a2g0o.productlist.search.0) |
+| A1 | 2 | 20-pin Pin Header Male<br />20-pin Pin Header Female | [Mouser](https://www.mouser.co.uk/en/ProductDetail/TE-Connectivity/2-826629-0?qs=FazuUmncXom55roGwM1n6g%3D%3D)<br />[Mouser](https://www.mouser.co.uk/en/ProductDetail/TE-Connectivity/1-535541-8?qs=4SZgfGyd%252B6cN18BaeVsGZA%3D%3D) |
+| U1 | 2<br> 1 | 1.27mm 8-pin Pin Header Male and Female<br />1.27mm 6-pin Pin Header Male and Female| [AliExpress](https://www.aliexpress.com/w/wholesale-pin-header-1.27mm.html?spm=a2g0o.productlist.search.0) |
 | U2 | 1 | 14-pin IC DIP Socket | [Mouser](https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1-2199298-3?qs=fK8dlpkaUMtBOtVI99wRlQ%3D%3D) |
 | U3 - U4 | 2 | 20-pin DIP Socket | [Mouser](https://www.mouser.co.uk/en/ProductDetail/TE-Connectivity/1-2199298-6?qs=fK8dlpkaUMvuMXpJTs4GlA%3D%3D) |
 | U5 | 1 | 16-pin DIP Socket | [Mouser](https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1-2199298-4?qs=fK8dlpkaUMvpL10rY9Abiw%3D%3D) |
