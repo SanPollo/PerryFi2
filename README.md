@@ -58,6 +58,7 @@ As mentioned above, you can either order this directly from its [project page on
 | C1 | 1 | 22uF 16V Electrolytical Capacitor | [Mouser](https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/860010372002?qs=0KOYDY2FL2%252B9WwJ0SbWRgQ%3D%3D) |
 | C2 | 1 | 10uF 16V Electronic Capacitor | [Mouser](https://www.mouser.co.uk/en/ProductDetail/Wurth-Elektronik/860010372001?qs=0KOYDY2FL29NKHIi2kspeA%3D%3D) |
 | C3 - C10 | 8 | 0.1uF / 100 nF (104) Ceramic Capacitor | [Mouser](https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/K104K15X7RF5UL2?qs=rLgk8CAOBHbCqsnkGO2HJA%3D%3D) |
+| J3 | 1 | 1x4-pin Header Male | [Mouser](https://eu.mouser.com/en/ProductDetail/TE-Connectivity/87224-4?qs=ZDXmSm13593XigDDyAAvFA%3D%3D) |
 | R1 - R6 | 6 | 10K Resistor | [Mouser](https://www.mouser.co.uk/en/ProductDetail/Vishay-BC-Components/SFR25H0001002JR500?qs=6iGubpYEgGl%2FWs77gjt1Ig%3D%3D) |
 
 ### MCU Boards
@@ -73,7 +74,7 @@ As mentioned above, you can either order this directly from its [project page on
 | --- | --- | ---- | ------ |
 | U2 | 1 | 74HCT125 | [Mouser](https://www.mouser.co.uk/en/ProductDetail/Texas-Instruments/SN74HCT125N?qs=NLW4NjXEBS5VnYqdavwjrw%3D%3D) |
 | U3 | 1 | 74LVC244 | [Mouser](https://www.mouser.co.uk/en/ProductDetail/Texas-Instruments/SN74LVC244AN?qs=5WY7Uqh921zt6%252BldompdKA%3D%3D) |
-| U4 | 1 | 74LVC245 | [Mouser](https://www.mouser.co.uk/en/ProductDetail/Texas-Instruments/SN74LVC244AN?qs=5WY7Uqh921zt6%252BldompdKA%3D%3D) |
+| U4 | 1 | 74LVC245 | [Mouser](https://www.mouser.co.uk/en/ProductDetail/Texas-Instruments/SN74LVC245AN?qs=N6WZOzgtpqVHY3EQAIUFKw%3D%3D) |
 | U5 | 1 | 74LS138 | [Mouser](https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LS138N?qs=j01uVdFEFjG9iU5k7BL8mw%3D%3D) |
 
 ### Connector
