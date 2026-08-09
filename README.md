@@ -4,12 +4,9 @@
 2. [Licences](#licences)
 3. [Obtaining the PCB](#obtaining-the-pcb)
 4. [Bill of Materials (BOM)](#bom)
-5. [Usage](#usage)
-7. [Flashing the Firmwares](#flashing-the-firmwares)
-8. [PerryFi Configuration](#perryfi-configuration)
-9. [Command Reference](#command-reference)
-10. [Included Software](#included-software)
-11. [Special Thanks](#special-thanks)
+5. [Included Software](#included-software)
+6. [Special Thanks](#special-thanks)
+7. [Project PerryFi](#project-perryfi)
 
 <br />
 
@@ -46,6 +43,8 @@ SETSIO.COM and QTERM are believed to be in the public domain, as are the other p
 ## Obtaining the PCB
 
 As mentioned above, you can either order this directly from its [project page on PCBWay](), or from [downloading the gerbers](gerbers/PerryFiV2.1R.zip), and uploading them to your favourite PCB manufacturer. I highly recommend JLCPCB.
+
+[Index](#perryfi-2)
 
 <br />
 
@@ -106,7 +105,7 @@ These are entirely optional.
 
 <br />
 
-## Flashing the Firmwares
+## Flashing the Firmware
 
 There are two different firmwares to flash. These can be found in their respective repositories along with instructions for flashing them:
 
