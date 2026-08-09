@@ -4,9 +4,10 @@
 2. [Licences](#licences)
 3. [Obtaining the PCB](#obtaining-the-pcb)
 4. [Bill of Materials (BOM)](#bom)
-5. [Included Software](#included-software)
-6. [Special Thanks](#special-thanks)
-7. [Project PerryFi](#project-perryfi)
+5. [Flashing the Firmware](#flashing-the-firmware)
+6. [Included Software](#included-software)
+7. [Special Thanks](#special-thanks)
+8. [Project PerryFi](#project-perryfi)
 
 <br />
 
