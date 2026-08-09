@@ -23,7 +23,7 @@ The PerryFi 2 is designed to either plug into the [PCW Backplane](https://github
 
 If you would like a pre-built version of the board, you can order one from the [PCBWay project]().
 
-![image](images/perryfi2.jpg)
+![image](images/perryfi2.png)
 
 [Index](#perryfi-2)
 
