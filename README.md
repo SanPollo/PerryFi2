@@ -84,7 +84,7 @@ The box header is for use with the [PCW Backplane](https://github.com/SanPollo/P
 | Ref | Qty | Part | Source |
 | --- | --- | ---- | ------ |
 | CONN | 1 | 2x25-pin 90-deg Keyed Male Box Header | [AliExpress](https://www.aliexpress.com/w/wholesale-50-pin-2.54mm-male-connector-right-angle.html) |
-| CONN | 1 | 50-pin Female Edge Connector | [AliExpress](https://www.aliexpress.com/w/wholesale-50-pin-edge-connector.html) |
+| EDGE | 1 | 50-pin Female Edge Connector | [AliExpress](https://www.aliexpress.com/w/wholesale-50-pin-edge-connector.html) |
 
 Note that the box header is soldered to the front of the board, to the bottom two rows, but the edge connector is soldered to the back of the board.
 
