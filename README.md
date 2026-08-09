@@ -43,7 +43,7 @@ SETSIO.COM and QTERM are believed to be in the public domain, as are the other p
 
 ## Obtaining the PCB
 
-As mentioned above, you can either order this directly from its [project page on PCBWay](https://www.pcbway.com/project/shareproject/PerryFi_2_Amstrad_PCW_Wifi_Expansion_6e6dad4e.html), or from [downloading the gerbers](gerbers/PerryFiV2.1R.zip), and uploading them to your favourite PCB manufacturer. I highly recommend JLCPCB.
+As mentioned above, you can either order this directly from its [project page on PCBWay](https://www.pcbway.com/project/shareproject/PerryFi_2_Amstrad_PCW_Wifi_Expansion_6e6dad4e.html), or from [downloading the gerbers](gerbers/PerryFiV2.1R.zip?raw=true), and uploading them to your favourite PCB manufacturer. I highly recommend JLCPCB.
 
 [Index](#perryfi-2)
 
@@ -119,7 +119,7 @@ There are two different firmwares to flash. These can be found in their respecti
 
 ## Included Software
 
-There are two boot images included; one for the [Amstrad PCW 8256 family](software/perryfi_2.1_boot_8256.dsk) (dot matrix printers), and one for the [9512 family](software/perryfi_2.1_boot_9512.dsk) (daisy wheel printers). They both 720KB images, and are designed to be used on a [modded Gotek](https://github.com/SanPollo/PCWGotekMod).
+There are two boot images included; one for the [Amstrad PCW 8256 family](software/perryfi_2.1_boot_8256.dsk?raw=true) (dot matrix printers), and one for the [9512 family](software/perryfi_2.1_boot_9512.dsk?raw=true) (daisy wheel printers). They both 720KB images, and are designed to be used on a [modded Gotek](https://github.com/SanPollo/PCWGotekMod).
 
 Boot the relevant image on your PCW, and run the **QTERMPF.COM** terminal emulator. You will then be able enter **AT+CONFIG** to configure your wifi settings. For a complete list of commands, see the [Command Reference](https://github.com/SanPollo/PerryZi/wiki/Command-Reference) on the PerryZi wiki.
 
