@@ -18,7 +18,7 @@ It uses a Raspberry Pi Pico microcontroller board to implement a Z80 DART and a 
 
 The PerryFi 2 is designed to either plug into the [PCW Backplane](https://github.com/SanPollo/PCWBackplane), or directly into the PCW's expansion port.
 
-If you would like a pre-built version of the board, you can order one from the [PCBWay project]().
+If you would like a pre-built version of the board, you can order one from the [PCBWay project](https://www.pcbway.com/project/shareproject/PerryFi_2_Amstrad_PCW_Wifi_Expansion_6e6dad4e.html).
 
 ![image](images/perryfi2.jpg)
 
@@ -42,7 +42,7 @@ SETSIO.COM and QTERM are believed to be in the public domain, as are the other p
 
 ## Obtaining the PCB
 
-As mentioned above, you can either order this directly from its [project page on PCBWay](), or from [downloading the gerbers](gerbers/PerryFiV2.1R.zip), and uploading them to your favourite PCB manufacturer. I highly recommend JLCPCB.
+As mentioned above, you can either order this directly from its [project page on PCBWay](https://www.pcbway.com/project/shareproject/PerryFi_2_Amstrad_PCW_Wifi_Expansion_6e6dad4e.html), or from [downloading the gerbers](gerbers/PerryFiV2.1R.zip), and uploading them to your favourite PCB manufacturer. I highly recommend JLCPCB.
 
 [Index](#perryfi-2)
 
