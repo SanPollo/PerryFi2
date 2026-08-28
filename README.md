@@ -110,7 +110,7 @@ These are entirely optional. Note that you will save a lot of money shopping aro
 
 There are two different firmwares to flash. These can be found in their respective repositories along with instructions for flashing them:
 
-[PicoDART](https://github.com/SanPollo/PicoDART) - Raspberry Pi Pico Firmware
+[PicoDART](https://github.com/SanPollo/PicoDART) - Raspberry Pi Pico Firmware<br />
 [PerryZi](https://github.com/SanPollo/PerryZi) - ESP12-F Firmware
 
 [Index](#perryfi-2)
