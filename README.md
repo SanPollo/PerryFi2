@@ -151,6 +151,6 @@ Project PerryFi consists of several separate components which make the PerryFi 2
 
 * [PerryFi 2](https://github.com/SanPollo/PerryFi2) - Hardware
 * [PerryDART](https://github.com/SanPollo/PicoDART) - Pico Firmware
-* [PerryZi](https://github.com/SanPollo/PicoZi) - ESP8266 Firmware
+* [PerryZi](https://github.com/SanPollo/PerryZi) - ESP8266 Firmware
 
 [Index](#perryfi-2)
